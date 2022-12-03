@@ -8,4 +8,4 @@
 Kinglo25/Kinglo25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src=”https://user-images.githubusercontent.com/59590960/205439300-a4891712-3b1b-46df-85a6-b7611b1e2932.png" alt=”my banner”>
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
