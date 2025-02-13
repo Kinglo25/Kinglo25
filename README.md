@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Kinglo25
 - 👀 I’m interested in problem solving, video games, sports and tv-shows
-- 🌱 I’m currently learning python, django, C, C++, solidity etc.
+- 🌱 I’m currently learning python, JavaScript, C, C++, solidity etc.
 - 📫 How to reach me: loic.majerus@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinglo25&layout=compact)](https://github.com/Kinglo25/github-readme-stats)
